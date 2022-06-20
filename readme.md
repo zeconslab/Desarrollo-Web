@@ -1,4 +1,4 @@
-# RaulPImentel-Freelancer
+# RaulPimentel-Freelancer
 _Este es mi primer proyecto con Html5, Css3 -> totalmente puro, simplemente es una vista rápida y sencilla._
 
 ## Tecnologías 💻
