@@ -9,7 +9,7 @@ Listado de tecnologías de este proyecto:
 ## Despliegue 📦
 
 _El despliegue se puede ver en el siguiente enlace_
-* [Click Aqui](https://celebrated-bublanina-0f0648.netlify.app/)
+* [Clic Aqui](https://celebrated-bublanina-0f0648.netlify.app/)
 
 ![alt](img/screenshot.png)
 
